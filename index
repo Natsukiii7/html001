@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style type="text/css"> 
+		body{font-family:SimHei;} 	
+	</style>
+	<title> 任务一：零基础HTML编码 </title>
+</head>
+<body>
+<h1> 网站一级标题 </h1>
+<ul>
+	<li><a href="http://ife.baidu.com/" title="导航链接一">导航链接一</a></li>
+	<li><a href="http://ife.baidu.com/" title="导航链接二">导航链接二</a></li>
+	<li><a href="http://ife.baidu.com/" title="导航链接三">导航链接三</a></li>
+	<li><a href="http://ife.baidu.com/" title="导航链接四">导航链接四</a></li>
+</ul>
+
+<div id="first article">
+	<h2>文章一级标题</h2>
+	<h2>文章二级标题</h2>
+	<p>zuozhe&nbsp;fabiaoshijian</p>
+	<p>
+		当我还只有六岁的时候，在一本描写原始森林的名叫《真实的故事》的书中，看到了一副精彩的插画，画的是一条蟒蛇正在吞食一只大野兽。页头上就是那副画的摹本。
+	<br/>
+		这本书中写道：“这些蟒蛇把它们的猎获物不加咀嚼地囫囵吞下，尔后就不能再动弹了；它们就在长长的六个月的睡眠中消化这些食物。”
+	<br/>
+		当时，我对丛林中的奇遇想得很多，于是，我也用彩色铅笔画出了我的第一副图画。我的第一号作品。它是这样的：<a href="http://www.ppzuowen.com/uploads/allimg/130811/155US000-1.jpg">（如下图）</a>我把我的这副杰作拿给大人看，我问他们我的画是不是叫他们害怕。他们回答我说：“一顶<strong>帽子</strong>有什么可怕的？”
+	</p>
+	<img src="http://www.ppzuowen.com/uploads/allimg/130811/155US000-1.jpg" title="第一号作品">
+	<p>
+		我画的不是帽子，是一条巨蟒在消化着一头大象。于是我又把巨蟒肚子里的情况画了出来，以便让大人们能够看懂。
+		<br/>
+		这些<strong>大人</strong>总是需要解释。我的第二号作品是这样的：<a href="http://www.ppzuowen.com/uploads/allimg/130811/155UW506-2.jpg" target="_blank">（点击打开）</a>大人们劝我把这些画着开着肚皮的，或闭上肚皮的蟒蛇的图画放在一边，还是把兴趣放在地理、历史、算术、语法上。
+	</p>
+</div>
+
+<div id="second article">
+	<h2>另一篇文章一级标题</h2>
+	<h2>文章二级标题</h2>
+	<p>文章作者&nbsp;文章发表时间</p>
+	<p>
+		这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+	<br/>
+		这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+	<br/>
+		这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com/">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有个粗体字</strong>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+	</p>
+	<img src="http://www.ppzuowen.com/uploads/allimg/130811/155S61162-0.jpg">
+	<ul>
+		<li>列表项目一</li>
+		<li>列表项目二</li>
+		<li>列表项目三</li>
+	</ul>
+</div>
+
+<div id="image">
+	<h3>图片</h3>
+	<p>第一只羊</p> <img src="http://www.ppzuowen.com/uploads/allimg/130811/155S61326-1.jpg">
+	<p>第二只羊</p> <img src="http://www.ppzuowen.com/uploads/allimg/130811/155SB923-2.jpg">
+	<p>第三只羊</p> <img src="http://www.ppzuowen.com/uploads/allimg/130811/155SAT6-3.jpg">
+	<p>第四只羊</p> <img src="http://www.ppzuowen.com/uploads/allimg/130811/155SC263-4.jpg">
+</div>
+
+<div id="last article">
+	<h2>最后一篇文章一级标题</h2>
+	<h2>文章二级标题</h2>
+	<p>文章作者&nbsp;文章发表时间</p>
+	<ol>
+		<li>排名1</li>
+		<li>排名2</li>
+		<li>排名3</li>
+	</ol>
+	<table border="1px">
+		<tbody>
+			<tr>
+				<th>表头</th>
+				<th>表头</th>
+				<th>表头</th>
+			</tr>
+			<tr>
+				<td>表内容单元格</td>
+				<td>表内容单元格</td>
+				<td><a href="">操作</a></td>
+			</tr>
+			<tr>
+				<td>表内容单元格</td>
+				<td>表内容单元格</td>
+				<td><a href="">操作</a></td>
+			</tr>
+			<tr>
+				<td>表内容单元格</td>
+				<td>表内容单元格</td>
+				<td><a href="">操作</a></td>
+			</tr>
+			<tr>
+				<td>表内容单元格</td>
+				<td>表内容单元格</td>
+				<td><a href="">操作</a></td>
+			</tr>
+			<tr>
+				<td>总计</td>
+				<td colspan="2">1000</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div id="sidebar">
+	<h2>侧栏标题</h2>
+	<h3>注册窗口标题</h3>
+	<form method="post" action="save.php">
+		<label>请输入邮箱地址：</label>
+		<input type="text" name="email" value="这是一个文本输入框" />
+		<p>邮箱地址请按要求格式输入</p>
+		
+		<label>请输入密码：</label>
+		<input type="text" name="password" value="这是一个文本输入框" />
+		<label>请重复输入密码：</label>
+		<input type="text" name="repassword" value="这是一个文本输入框" />
+		<p>密码请为6-16位英文数字</p>
+		
+		<label>性别：</label>
+		<input type="radio" name="gender" value="1" id="man"/>
+		<label for="man">男</label>
+		<input type="radio" name="gender" value="2" id="woman"/>
+		<label for="woman">女</label>
+		
+		<label>城市：</label>
+		<select>
+			<option value="北京" selected="selected">北京</option>
+			<option value="上海">上海</option>
+			<option value="广州">广州</option>
+			<option value="其他">其他</option>
+		</select>
+		
+		<label>爱好：</label>
+		<input type="checkbox" name="sports" id="sports" value="1" />
+		<label for="sports">运动</label>
+		<input type="checkbox" name="arts" id="arts" value="2" />
+		<label for="arts">艺术</label>
+		<input type="checkbox" name="science" id="science" value="3" />
+		<label for="science">科学</label>
+		
+		<label>个人描述：</label>
+		<textarea cols="24" rows="2">这是一个多行输入框，输入您的个人描述</textarea>
+		<input type="submit" value="确认提交" />
+	</form>
+	<p>版权所有©</p>
+	
+</div>	
+
+</body>
+
+</html>
+ 
